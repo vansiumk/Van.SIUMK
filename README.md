@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Selamat Datang Di Blog Saya... Jangan Lupa Follow Instagram Saya @ir.vanm
 
-You can use the [editor on GitHub](https://github.com/vansiumk/Van.SIUMK/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Saya akan memberikan pengetahuan kepada kalian semua tentang apa yang saya ketahui. Saya akan membuat Blog yang insyallah akan memberikan pengetahuan kepada kalian. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Silahkan Kalian Pilih Blog File Yang menurut kalian bisa menambah wawasan. Saya akan senang jika kalian memberikan feedback kepada saya tentang Blog Ini. Kalian Bisa DM melalui Instagram untuk menanyakan sersuatu.
 
-### Markdown
+### Perkenalan Pertama
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Silahkan Dibaca :)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```Perkenalan Pertama
+Perkenalkan Nama Saya Mokhammad Irvan Maulana
+Saya Sekarang Kuliah di Universitas Muria Kudus
+Saya mengambil jurusan Sistem Informasi S1
+Asal sekolah saya adalah SMK N 2 KUDUS, Lulusan 2020 Atau lulusan jalur Corona :v
+Sekarang Saya berusia 17 Tahun 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

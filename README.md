@@ -9,13 +9,15 @@ Silahkan Kalian Pilih Blog File Yang menurut kalian bisa menambah wawasan. Saya 
 Silahkan Dibaca :)
 
 ```markdown
-Perkenalkan Nama Saya Mokhammad Irvan Maulan
+Perkenalkan Nama Saya ### Mokhammad Irvan Maulan
 
-Saya Sekarang Kuliah di Universitas Muria Kudus
+Saya Sekarang Kuliah di ### Universitas Muria Kudus
 
-Saya mengambil jurusan Sistem Informasi S1
+Saya mengambil jurusan ### Sistem Informasi S1
 
-Asal sekolah saya adalah SMK N 2 KUDUS, Lulusan 2020 Atau lulusan jalur Corona :v
+Asal sekolah saya adalah ### SMK N 2 KUDUS, 
+
+Lulusan 2020 Atau lulusan jalur Corona :v
 
 Sekarang Saya berusia 17 Tahun. 
 ```
